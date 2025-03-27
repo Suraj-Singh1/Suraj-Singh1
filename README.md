@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 Pursuing **MCA from IGNOU**, graduating next year.
 - 📘 Studying **MSc Financial Engineering at WorldQuant University**.
-- 💹 Passionate about ** software development, algorithmic trading, quantitative finance, and financial data science**.
+- 💹 Passionate about **software development, algorithmic trading, quantitative finance, and financial data science**.
 - 🤖 Running  **AlgoPoints.in**.
 - 🏦 Exploring **financial markets, AI in trading, and portfolio optimization**.
 
