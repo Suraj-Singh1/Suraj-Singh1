@@ -34,7 +34,7 @@
 `IT Automation` `Google Cloud` `VMware`
 
 ### 🌐 Web & APIs
-`Flask` `FastAPI` `REST APIs` `WebSockets`
+`Node JS` `Django` `FastAPI` `REST APIs` `WebSockets`
 
 ### 💾 Databases
 `PostgreSQL` `SQLite` `Firebase`
